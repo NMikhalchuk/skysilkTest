@@ -1,2 +1,9 @@
 # phpStorm project files
 .idea
+
+logs/*
+!.gitkeep
+node_modules/
+app/lib/
+tmp
+.DS_Store
