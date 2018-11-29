@@ -3,7 +3,7 @@
   "private": true,
   "version": "2.0.0",
   "description": "A test project for SkySilk",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/NMikhalchuk/skysilkTest",
   "license": "MIT",
   "dependencies": {
     "angular-local-storage": "^0.7.1"

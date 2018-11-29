@@ -2,7 +2,7 @@
  * HELPER
  */
 
-var Helper = {
+window.Helper = {
 
     /**
      * @param {Date} inDate
